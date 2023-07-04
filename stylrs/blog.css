@@ -3,3 +3,7 @@ div {
   padding: 5px;
   margin-bottom: 10px ;
 }
+p{
+  text-decoration: wavy;
+  color: red;
+}
